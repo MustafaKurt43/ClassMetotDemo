@@ -1,0 +1,8 @@
+C:\Users\musta\source\repos\ClassMetotDemo cs\bin\Debug\ClassMetotDemo cs.exe.config
+C:\Users\musta\source\repos\ClassMetotDemo cs\bin\Debug\ClassMetotDemo cs.exe
+C:\Users\musta\source\repos\ClassMetotDemo cs\bin\Debug\ClassMetotDemo cs.pdb
+C:\Users\musta\source\repos\ClassMetotDemo cs\obj\Debug\ClassMetotDemo cs.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\ClassMetotDemo cs\obj\Debug\ClassMetotDemo cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\ClassMetotDemo cs\obj\Debug\ClassMetotDemo cs.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ClassMetotDemo cs\obj\Debug\ClassMetotDemo cs.exe
+C:\Users\musta\source\repos\ClassMetotDemo cs\obj\Debug\ClassMetotDemo cs.pdb
